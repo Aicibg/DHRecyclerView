@@ -1,2 +1,2 @@
 # DHRecyclerView
-上View拉加载更多的recycler
+上拉加载更多的recyclerView
